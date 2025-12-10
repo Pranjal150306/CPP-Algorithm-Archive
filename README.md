@@ -7,5 +7,5 @@ Welcome to my coding archive! Here I document my journey of mastering Data Struc
 | # | Problem Name | Solution Link | Topic |
 | :--- | :--- | :--- | :--- |
 | 1 | **Two Sum** | [View Code](./Twosum.cpp) | Arrays / HashMap |
-
+| 2 | Palindrome Number | [View Code](./Palindrome.cpp) | Math |
 *(More solutions coming soon...)*
