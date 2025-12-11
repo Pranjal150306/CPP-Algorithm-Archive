@@ -9,4 +9,5 @@ Welcome to my coding archive! Here I document my journey of mastering Data Struc
 | 1 | **Two Sum** | [View Code](./Twosum.cpp) | Arrays / HashMap |
 | 2 | Palindrome Number | [View Code](./Palindrome.cpp) | Math |
 | 3 | Fibonacci Number | [View Code](./Fibonacci.cpp) | Math / Iteration |
+| 4 | Remove Duplicates | [View Code](./RemoveDuplicates.cpp) | Arrays / Two pointers |
 *(More solutions coming soon...)*
