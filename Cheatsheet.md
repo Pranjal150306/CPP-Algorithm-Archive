@@ -5,8 +5,10 @@
      `git pull origin main`
 
 ### 1. START NEW PROBLEM
-   * Create the file: `touch TwoSum.cpp`
-   * Write your code.
+   * **Create & Open:** `nano TwoSum.cpp`
+   * **Paste Code:** `Cmd + V`
+   * **Save:** `Ctrl + O` -> `Enter`
+   * **Exit:** `Ctrl + X`
    * **CRITICAL:** Use PascalCase for filenames (e.g., `TwoSum.cpp`).
 
 ### 2. ORGANIZE (The Folder Strategy)
