@@ -2,12 +2,11 @@
 
 Welcome to my coding archive! Here I document my journey of mastering Data Structures and Algorithms.
 
-## 📊 Solved Problems
+### 📊 Solved Problems
 
-| # | Problem Name | Solution Link | Topic |
-| :--- | :--- | :--- | :--- |
-| 1 | **Two Sum** | [View Code](./Twosum.cpp) | Arrays / HashMap |
-| 2 | Palindrome Number | [View Code](./Palindrome.cpp) | Math |
-| 3 | Fibonacci Number | [View Code](./Fibonacci.cpp) | Math / Iteration |
-| 4 | Remove Duplicates | [View Code](./RemoveDuplicates.cpp) | Arrays / Two pointers |
-*(More solutions coming soon...)*
+| # | Problem Name | Solution | Topic | Time Complexity | Difficulty |
+| :-: | :--- | :-: | :--- | :-: | :-: |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Code](./Arrays/TwoSum.cpp) | Arrays / Hashmap | `O(n)` | 🟢 Easy |
+| 2 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Code](./Math/Palindrome.cpp) | Math | `O(log n)` | 🟢 Easy |
+| 3 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Code](./Math/Fibonacci.cpp) | Math / DP | `O(n)` | 🟢 Easy |
+| 4 | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](./Arrays/RemoveDuplicates.cpp) | Arrays / Two Pointers | `O(n)` | 🟢 Easy |
