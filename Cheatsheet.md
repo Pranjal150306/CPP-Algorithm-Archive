@@ -30,7 +30,8 @@
 
 ### 4. UPDATE LIST (The Menu)
    * Go to GitHub.com > README.md > Pencil Icon ✏️.
-   * Add the new row to the table.
+   * Copy the last row of the table and update it:
+       | # | [Name](LeetCodeLink) | [Code](./Folder/File.cpp) | Topic | `O(n)` | 🟢 Easy |
    * Commit changes.
 
 ### 5. REFERENCE: COMMIT PREFIXES
