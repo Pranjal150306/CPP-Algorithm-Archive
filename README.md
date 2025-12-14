@@ -11,3 +11,4 @@ Welcome to my coding archive! Here I document my journey of mastering Data Struc
 | 3 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Code](./Math/Fibonacci.cpp) | Math / DP | `O(n)` | 🟢 Easy |
 | 4 | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](./Arrays/RemoveDuplicates.cpp) | Arrays / Two Pointers | `O(n)` | 🟢 Easy |
 | 5 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Code](./Arrays/RotateArray.cpp) | Arrays | `O(n)` | 🟡 Medium |
+| 6 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Code](./Arrays/MoveZeroes.cpp) | Arrays | `O(n)` | 🟢 Easy |
