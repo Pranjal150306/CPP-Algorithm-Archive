@@ -55,4 +55,6 @@
    * **Stuck in Vim/Nano?**
        * Vim: Type `:x` then Enter.
        * Nano: `Ctrl+O` -> Enter -> `Ctrl+X`.
-  ### 8. git mv Arrays/MissingNumber.cpp Math/ = This helps to move from one folder to another.(then commit and git push origin main)
+  ### 8. MOVE A FILE FROM ONE FOLDER TO ANOTHER
+        * git mv Arrays/MissingNumber.cpp Math/ 
+        * Then commit and git push origin main
