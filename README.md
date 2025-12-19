@@ -13,3 +13,4 @@ Welcome to my coding archive! Here I document my journey of mastering Data Struc
 | 5 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Code](./Arrays/RotateArray.cpp) | Arrays | `O(n)` | 🟡 Medium |
 | 6 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Code](./Arrays/MoveZeroes.cpp) | Arrays | `O(n)` | 🟢 Easy |
 | 7 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Code](./Math/MissingNumber.cpp) | Math | `O(n)` | 🟢 Easy |
+| 8 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Code](./Arrays/MaxConsecutiveOnes.cpp) | Arrays | `O(n)` | 🟡 Medium |
