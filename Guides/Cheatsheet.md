@@ -58,3 +58,18 @@
   ### 8. MOVE A FILE FROM ONE FOLDER TO ANOTHER
         * git mv Arrays/MissingNumber.cpp Math/ 
         * Then commit and git push origin main
+
+  ### 9.🚑 Troubleshooting (When Git Says "No")
+
+### **Error: `! [rejected] main -> main (fetch first)`**
+* What it means:** "Traffic Jam." Someone (or you) changed the code on GitHub.com (like editing the README), and your laptop is outdated.
+* The Fix (The "Inhale" Technique):**
+    1.  `git pull origin main --no-edit`  *(Downloads the online changes and merges them automatically)*
+    2.  `git push origin main`            *(Now you can upload safely)*
+
+    **Error: `filename.cpp` vs `FileName.cpp` (Capitalization)**
+* **What it means:** You renamed a file but Git didn't notice because Mac/Windows are case-insensitive.
+  **The Fix:**
+    1.  `git mv oldname.cpp NewName.cpp`
+    2.  `git commit -m "fix: rename file"`
+    3.  `git push origin main`
