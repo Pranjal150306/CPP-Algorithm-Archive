@@ -15,3 +15,4 @@ Welcome to my coding archive! Here I document my journey of mastering Data Struc
 | 7 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Code](./Math/MissingNumber.cpp) | Math | `O(n)` | 🟢 Easy |
 | 8 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Code](./Arrays/MaxConsecutiveOnes.cpp) | Arrays | `O(n)` | 🟡 Medium |
 | 9 | [Single Number](https://leetcode.com/problems/single-number/) | [Code](./Arrays/SingleNumber.cpp) | Arrays | `O(n)` | 🟢 Easy |
+| 10 | [Sort Colors ](https://leetcode.com/problems/sort-colors/) | [Code](./Arrays/SortColors.cpp) | Arrays/Two pointers | `O(n)` | 🟡 Medium |
