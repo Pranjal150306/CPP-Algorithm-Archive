@@ -55,11 +55,11 @@
    * **Stuck in Vim/Nano?**
        * Vim: Type `:x` then Enter.
        * Nano: `Ctrl+O` -> Enter -> `Ctrl+X`.
-  ### 8. MOVE A FILE FROM ONE FOLDER TO ANOTHER
+### 8. MOVE A FILE FROM ONE FOLDER TO ANOTHER
         * git mv Arrays/MissingNumber.cpp Math/ 
         * Then commit and git push origin main
 
-  ### 9.🚑 Troubleshooting (When Git Says "No")
+### 9.🚑 Troubleshooting (When Git Says "No")
 
 ### **Error: `! [rejected] main -> main (fetch first)`**
 * What it means:** "Traffic Jam." Someone (or you) changed the code on GitHub.com (like editing the README), and your laptop is outdated.
@@ -73,3 +73,11 @@
     1.  `git mv oldname.cpp NewName.cpp`
     2.  `git commit -m "fix: rename file"`
     3.  `git push origin main`
+       
+### 10. **Scenario: "I made a typo in my commit message!"**
+* **The "No-Editor" Fix (Avoids Vim):**
+    `git commit --amend -m "New correct message here"`
+* **If you have already pushed:**
+    1. Fix the message locally (command above).
+    2. `git push --force origin main`
+    * *Note: Only use force if you are sure no one else is working on your branch.*
