@@ -1,5 +1,10 @@
 # 🚀 LeetCode Solutions in C++
+![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/Pranjal150306/CPP-Algorithm-Archive?style=for-the-badge)
 
+> *An optimized archive of Data Structures and Algorithms solutions, aiming for clean code and O(n) efficiency.*
 Welcome to my coding archive! Here I document my journey of mastering Data Structures and Algorithms.
 
 ### 📊 Solved Problems
@@ -18,3 +23,12 @@ Welcome to my coding archive! Here I document my journey of mastering Data Struc
 | 10 | [Sort Colors ](https://leetcode.com/problems/sort-colors/) | [Code](./Arrays/SortColors.cpp) | Arrays / Two pointers | `O(n)` | 🟡 Medium |
 | 11 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Code](./Arrays/MajorityElement.cpp) | Arrays | `O(n)` | 🟡 Medium |
 | 12 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Code](./Arrays/MaxSubarray.cpp) | Arrays | `O(n)` | 🟡 Medium |
+
+
+---
+
+## 🛠️ How to Run
+To compile and run any solution (e.g., TwoSum):
+```bash
+g++ Arrays/TwoSum.cpp -o solution
+./solution
