@@ -23,7 +23,7 @@ Welcome to my coding archive! Here I document my journey of mastering Data Struc
 | 10 | [Sort Colors ](https://leetcode.com/problems/sort-colors/) | [Code](./Arrays/SortColors.cpp) | Arrays / Two pointers | `O(n)` | 🟡 Medium |
 | 11 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Code](./Arrays/MajorityElement.cpp) | Arrays | `O(n)` | 🟡 Medium |
 | 12 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Code](./Arrays/MaxSubarray.cpp) | Arrays | `O(n)` | 🟡 Medium |
-| 13 | [Rearrange Array](https://leetcode.com/problems/rearrange-array/) | [Code](./Arrays/RearrangeArray.cpp) | Arrays / Two pointers | `O(n)` | 🟡 Medium |
+| 13 | [Rearrange Array](https://leetcode.com/problems/rearrange-array-element-by-sign/) | [Code](./Arrays/RearrangeArray.cpp) | Arrays / Two pointers | `O(n)` | 🟡 Medium |
 
 
 ---
