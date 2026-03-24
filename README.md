@@ -24,8 +24,8 @@ Welcome to my coding archive! Here I document my journey of mastering Data Struc
 | 11 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Code](./Arrays/MajorityElement.cpp) | Arrays | `O(n)` | 🟡 Medium |
 | 12 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Code](./Arrays/MaxSubarray.cpp) | Arrays | `O(n)` | 🟡 Medium |
 | 13 | [Rearrange Array](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Code](./Arrays/RearrangeArray.cpp) | Arrays / Two pointers | `O(n)` | 🟡 Medium |
-| 14 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Code](./BinarySearch/BinarySearch.cpp) | Binary Search | `O(log n)` |🟢 Easy |
-| 15 | [Search Insert](https://leetcode.com/problems/search-insert-position/) | [Code](./BinarySearch/SearchInsert.cpp) | Binary Search | `O(log n)` |🟢 Easy |
+| 14 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Code](./Binary-Search/BinarySearch.cpp) | Binary Search | `O(log n)` |🟢 Easy |
+| 15 | [Search Insert](https://leetcode.com/problems/search-insert-position/) | [Code](./Binary-Search/SearchInsert.cpp) | Binary Search | `O(log n)` |🟢 Easy |
 
 
 ---
