@@ -27,7 +27,7 @@ Welcome to my coding archive! Here I document my journey of mastering Data Struc
 | 14 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Code](./Binary-Search/BinarySearch.cpp) | Binary Search | `O(log n)` |🟢 Easy |
 | 15 | [Search Insert](https://leetcode.com/problems/search-insert-position/) | [Code](./Binary-Search/SearchInsert.cpp) | Binary Search | `O(log n)` |🟢 Easy |
 | 16 | [Rotated Search](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Code](./Binary-Search/RotatedSearch.cpp) | Binary Search | `O(log n)` |🟡 Medium |
-| 17 | [Rotated Minimum](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Code](./Binary-Search/RotatedMinimum.cpp) | Binary Search | `O(log n)` |$
+| 17 | [Rotated Minimum](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Code](./Binary-Search/RotatedMinimum.cpp) | Binary Search | `O(log n)` |🟡 Medium |
 ---
 
 ## 🛠️ How to Run
