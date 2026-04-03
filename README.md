@@ -29,8 +29,7 @@ Welcome to my coding archive! Here I document my journey of mastering Data Struc
 | 16 | [Rotated Search](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Code](./Binary-Search/RotatedSearch.cpp) | Binary Search | `O(log n)` |🟡 Medium |
 ch.cpp) | Binary Search | `O(log n)` |$
 | 17 | [Rotated Minimum](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-II/) | [Code](./Binary-Search/RotatedMinimum.cpp) | Binary Search | `O(log n)` |🔴 Hard |
----| 18 | [Rotated Search](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Code](./Binary-Search/RotatedSearch.cpp) | Binary Search | `O(log n)` |$
-ch.cpp) | Binary Search | `O(log n)` |$
+| 18 | [Single Element](https://leetcode.com/problems/single-element-in-sorted-array/) | [Code](./Binary-Search/SingleElement.cpp) | Binary Search | `O(log n)` |🟡 Medium |
 
 ## 🛠️ How to Run
 To compile and run any solution (e.g., TwoSum):
