@@ -33,6 +33,7 @@ Welcome to my coding archive! Here I document my journey of mastering Data Struc
 | 20 | [Minimum Days for Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Code](./Binary-Search/MinimumDaysForBouquets.cpp) | Binary Search | `O(N logD)` | 🟡 Medium |
 | 21 | [Capacity to Ship Packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Code](./Binary-Search/CapacitytoShipPackages.cpp) | Binary Search | `O(N logS)` | 🟡 Medium |
 | 22 | [Split Array largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Code](./Binary-Search/SplitArraySum.cpp) | Binary Search | `O(nlog(sum of array))` | 🔴 Hard |
+| 23 | [Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | [Code](./Binary-Search/AggressiveCows.cpp) | Binary Search | `O(nlogM)` | 🔴 Hard |
 ## 🛠️ How to Run
 To compile and run any solution (e.g., TwoSum):
 ```bash
