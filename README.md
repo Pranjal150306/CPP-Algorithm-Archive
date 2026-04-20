@@ -31,6 +31,7 @@ Welcome to my coding archive! Here I document my journey of mastering Data Struc
 | 18 | [Single Element](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Code](./Binary-Search/SingleElement.cpp) | Binary Search | `O(log n)` |🟡 Medium |
 | 19 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Code](./Binary-Search/KokoEatingBananas.cpp) | Binary Search | `O(N⋅log(max(piles)))` |🔴 Hard |
 | 20 | [Minimum Days for Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Code](./Binary-Search/MinimumDaysForBouquets.cpp) | Binary Search | `O(N logD)` | 🟡 Medium |
+| 21 | [Capacity to Ship Packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Code](./Binary-Search/CapacitytoShipPackages.cpp) | Binary Search | `O(N logS)` | 🟡 Medium |
 ## 🛠️ How to Run
 To compile and run any solution (e.g., TwoSum):
 ```bash
