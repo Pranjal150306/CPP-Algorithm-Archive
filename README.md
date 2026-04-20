@@ -34,6 +34,7 @@ Welcome to my coding archive! Here I document my journey of mastering Data Struc
 | 21 | [Capacity to Ship Packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Code](./Binary-Search/CapacitytoShipPackages.cpp) | Binary Search | `O(N logS)` | 🟡 Medium |
 | 22 | [Split Array largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Code](./Binary-Search/SplitArraySum.cpp) | Binary Search | `O(nlog(sum of array))` | 🔴 Hard |
 | 23 | [Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | [Code](./Binary-Search/AggressiveCows.cpp) | Binary Search | `O(nlogM)` | 🔴 Hard |
+| 23 | [Book Allocation](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | [Code](./Binary-Search/BookAllocation.cpp) | Binary Search | `O(nlog(sum of pages))` | 🔴 Hard |
 ## 🛠️ How to Run
 To compile and run any solution (e.g., TwoSum):
 ```bash
