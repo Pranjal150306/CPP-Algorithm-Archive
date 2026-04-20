@@ -1,4 +1,4 @@
-# 🚀 Data Structures and Algorithms (DSA) archive
+## 🚀 Data Structures and Algorithms (DSA) archive
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
