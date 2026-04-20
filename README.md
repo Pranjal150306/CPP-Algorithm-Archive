@@ -1,10 +1,10 @@
-# 🚀 LeetCode Solutions 
+# 🚀 Data Structures and Algorithms (DSA) archive
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/Pranjal150306/CPP-Algorithm-Archive?style=for-the-badge)
 
-> *An optimized archive of Data Structures and Algorithms solutions, aiming for clean code and O(n) efficiency.*
+> *An optimized archive of Data Structures and Algorithms solutions from leetCode, GeeksforGeeks and other competitive platform, aiming for clean and efficient code.*
 Welcome to my coding archive! Here I document my journey of mastering Data Structures and Algorithms.
 
 ### 📊 Solved Problems
