@@ -35,6 +35,7 @@ Welcome to my coding archive! Here I document my journey of mastering Data Struc
 | 22 | [Split Array largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Code](./Binary-Search/SplitArraySum.cpp) | Binary Search | `O(nlog(sum of array))` | 🔴 Hard |
 | 23 | [Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | [Code](./Binary-Search/AggressiveCows.cpp) | Binary Search | `O(nlogM)` | 🔴 Hard |
 | 24 | [Book Allocation](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | [Code](./Binary-Search/BookAllocation.cpp) | Binary Search | `O(nlog(sum of pages))` | 🔴 Hard |
+| 18 | [Smallest Divisor](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Code](./Binary-Search/SmallestDivisorThreshold.cpp) | Binary Search | `O(nlog(maxelement))` |🟡 Medium |
 ## 🛠️ How to Run
 To compile and run any solution (e.g., TwoSum):
 ```bash
