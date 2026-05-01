@@ -38,7 +38,7 @@ Welcome to my coding archive! Here I document my journey of mastering Data Struc
 | 25 | [Smallest Divisor](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Code](./Binary-Search/SmallestDivisorThreshold.cpp) | Binary Search | `O(nlog(maxelement))` |🟡 Medium |
 | 26 | [Maximum Points](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Code](./Sliding-window/MaximumPointsCard.cpp) | Sliding window | `O(N)` |🟡 Medium |
 | 27 | [Longest substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](./Sliding-window/LongestSubstring.cpp) | Sliding window | `O(N)` |🟡 Medium |
-| 28 | [Maximum Consecutive Ones](https://leetcode.com/problems/maximum-consecutive-ones-iii/) | [Code](./Sliding-window/MaximumConsecutiveOnes.cpp) | Sliding window | `O(N)` |🟡 Medium |
+| 28 | [Max Consecutive Ones](https://leetcode.com/problems/maximum-consecutive-ones-iii/) | [Code](./Sliding-window/MaxConsecutiveOnes.cpp) | Sliding window | `O(N)` |🟡 Medium |
 ## 🛠️ How to Run
 To compile and run any solution (e.g., TwoSum):
 ```bash
