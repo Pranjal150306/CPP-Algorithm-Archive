@@ -40,7 +40,7 @@ Welcome to my coding archive! Here I document my journey of mastering Data Struc
 | 27 | [Longest substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](./Sliding-window/LongestSubstring.cpp) | Sliding window | `O(N)` |🟡 Medium |
 | 28 | [Max Consecutive Ones](https://leetcode.com/problems/maximum-consecutive-ones-iii/) | [Code](./Sliding-window/MaxConsecutiveOnes.cpp) | Sliding window | `O(N)` |🟡 Medium |
 | 29 | [Delete Node](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Code](./Linked-List/DeleteNode.cpp) | Linked List | `O(1)` |🟢 Easy |
-| 30 | [Delete Node](https://leetcode.com/problems/remove-linked-list-elements/) | [Code](./Linked-List/RemoveLL.cpp) | Linked List | `O(n)` |🟡 Medium |
+| 30 | [Remove Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Code](./Linked-List/RemoveLL.cpp) | Linked List | `O(n)` |🟡 Medium |
 ## 🛠️ How to Run
 To compile and run any solution (e.g., TwoSum):
 ```bash
