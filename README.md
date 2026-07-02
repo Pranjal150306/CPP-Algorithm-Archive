@@ -41,7 +41,7 @@ Welcome to my coding archive! Here I document my journey of mastering Data Struc
 | 28 | [Max Consecutive Ones](https://leetcode.com/problems/maximum-consecutive-ones-iii/) | [Code](./Sliding-window/MaxConsecutiveOnes.cpp) | Sliding window | `O(N)` |🟡 Medium |
 | 29 | [Delete Node](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Code](./Linked-List/DeleteNode.cpp) | Linked List | `O(1)` |🟢 Easy |
 | 30 | [Remove Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Code](./Linked-List/RemoveLL.cpp) | Linked List | `O(n)` |🟡 Medium |
-| 31 | [Insert Elements](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1) | [Code](./Linked-List/InsertionInDLL.cpp) | Linked List | `O(n)` | |🟢 Easy |
+| 31 | [Insert Elements in DLL](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1) | [Code](./Linked-List/InsertionInDLL.cpp) | Linked List | `O(n)` | |🟢 Easy |
 ## 🛠️ How to Run
 To compile and run any solution (e.g., TwoSum):
 ```bash
